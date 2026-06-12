@@ -1,11 +1,11 @@
-# Thiranex Internship - Task 3 E-Commerce Web Application
+## Thiranex Internship - Task 3 E-Commerce Web Application
 👨‍💻 Developed By
 
 KARAKAMBADI RITHVIKRAJ
 
 B.Tech Computer Science Student
 
-📌 Project Overview
+#📌 Project Overview
 
 This project is a full-stack E-Commerce Web Application developed as part of the Thiranex Internship Task 3.
 
@@ -14,21 +14,29 @@ It demonstrates a working product catalog system with backend APIs and a respons
 The backend is built using Node.js and Express.js, and the frontend uses HTML, CSS, and JavaScript to fetch and display products dynamically.
 
 🚀 Features
-🛒 Frontend Features
+
+#🛒 Frontend Features
+
 Product listing page
 Responsive UI design
 Dynamic data rendering from API
 Add to Cart functionality (basic alert system)
-⚙️ Backend Features
+
+#⚙️ Backend Features
+
 REST API using Express.js
 Product GET endpoint
 JSON response handling
 CORS enabled
-📦 Product Features
+
+#📦 Product Features
+
 Product catalog display
 Name, price, description, image support
 Dummy product data (MongoDB optional)
-🧰 Technologies Used
+
+#🧰 Technologies Used
+
 Frontend
 HTML5
 CSS3
@@ -37,7 +45,9 @@ Backend
 Node.js
 Express.js
 CORS
-📁 Project Structure
+
+#📁 Project Structure
+
 Thiranex-Task-3-Ecommerce-App/
 │
 ├── backend/
@@ -52,7 +62,9 @@ Thiranex-Task-3-Ecommerce-App/
 │   ├── script.js
 │
 └── README.md
-⚙️ Installation & Setup
+
+#⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/Thiranex-Task-3-Ecommerce-App.git
 2️⃣ Backend Setup
@@ -72,7 +84,7 @@ Example:
 
 http://localhost:5000/products
 
-Response:
+#Response:
 
 [
   {
@@ -82,26 +94,31 @@ Response:
     "description": "High performance laptop"
   }
 ]
-🖥️ Frontend Usage
+#🖥️ Frontend Usage
 
 Open:
 
 frontend/index.html
 
-The page will:
+#The page will:
 
 Fetch data from backend API
 Display products dynamically
 Allow basic "Add to Cart" interaction
-🎯 Expected Outcome
+
+#🎯 Expected Outcome
+
 Understanding of full-stack development
 API integration with frontend
 Basic e-commerce workflow
 Real-world project structure experience
-📌 Notes
+
+#📌 Notes
+
 MongoDB is optional; dummy data is used for simplicity
 Backend and frontend run locally
 Ensure backend is running before opening frontend
-🏁 Internship Submission
+
+#🏁 Internship Submission
 
 This project was developed and submitted as part of the Thiranex Internship Program - Task 3: E-Commerce Web Application.
