@@ -66,7 +66,8 @@ Thiranex-Task-3-Ecommerce-App/
 #⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Thiranex-Task-3-Ecommerce-App.git
+https://github.com/rithvikraj-hub/Thiranex-Task-3-Ecommerce-App
+
 2️⃣ Backend Setup
 cd backend
 npm install
